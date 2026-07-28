@@ -121,7 +121,7 @@ export default function Footer() {
               <h4 className="font-bold text-foreground">Resources</h4>
               <ul className="space-y-2">
                 {[
-                  { label: 'Download Resume', href: '#' },
+                  { label: 'Download Resume', href: '/Yatish_Kapila_Resume.pdf' },
                   { label: 'Case Studies', href: '#projects' },
                   { label: 'Contact', href: '#contact' },
                 ].map((link) => (
